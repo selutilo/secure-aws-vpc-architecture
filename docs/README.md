@@ -1,4 +1,4 @@
-# Secure AWS VPC Architecture – Production-Ready Design
+# Secure AWS VPC Architecture Design
 
 This repository showcases a secure AWS VPC architecture designed using AWS best practices. It demonstrates real-world considerations for security, scalability, availability, and operations.
 
