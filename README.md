@@ -1,2 +1,17 @@
-# secure-aws-vpc-architecture
-The technical explanation of a secure AWS VPC architecture designed using AWS best practices. It is intended to accompany an architecture diagram as part of my portfolio, demonstrating real‑world design thinking across security, networking, scalability, availability, and operations.
+# Secure AWS VPC Architecture Design
+
+This repository showcases a secure AWS VPC architecture designed using AWS best practices. It demonstrates real-world considerations for security, scalability, availability, and operations.
+
+## Architecture Highlights
+- Defense-in-depth security model
+- AWS WAF for edge protection
+- Private subnets with no direct internet access
+- Auto Scaling application tier
+- Amazon Aurora in isolated subnets
+- IAM least privilege & Session Manager access
+- Centralized logging and intrusion detection
+
+## Artifacts
+- 📐 Architecture Diagram: docs/secure-aws-vpc-architecture1.1.png
+- 📄 Technical Design Document: docs/TDD.pdf
+- 🌐 Portfolio Website: https://selutilo.github.io/secure-aws-vpc-architecture/
