@@ -14,4 +14,3 @@ This repository showcases a secure AWS VPC architecture designed using AWS best 
 ## Artifacts
 - 📐 Architecture Diagram: docs/secure-aws-vpc-architecture1.1.png
 - 📄 Technical Design Document: docs/TDD.pdf
-- 🌐 Portfolio Website: https://selutilo.github.io/secure-aws-vpc-architecture/
